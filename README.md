@@ -1,1 +1,2 @@
-# Geolocalization aplication which reads the visitors to the page and saving IP and time of visit. 
+# Geolocalization aplication 
+Reads the visitor's IP to the page and saving it with time to Database. 
